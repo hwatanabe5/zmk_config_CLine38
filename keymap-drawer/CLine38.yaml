@@ -16,8 +16,6 @@ layers:
   - {t: D, h: KIGOU}
   - {t: F, h: NUM2}
   - G
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - H
   - J
   - K
@@ -28,14 +26,11 @@ layers:
   - C
   - {t: V, h: LCTRL}
   - {t: B, h: LEFT ALT}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: N, h: LEFT ALT}
   - {t: M, h: LCTRL}
   - '&mkp MB1'
-  - {t: '&mkp MB2', h: SCROLL}
+  - {t: '&mkp MB2', h: '5'}
   - DELETE
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -60,26 +55,21 @@ layers:
   - {t: Ctl+D, h: KIGOU}
   - {t: Ctl+F, h: NUM2}
   - LCTRL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - PAGE UP
   - Ctl+Sft+;
   - UP ARROW
   - Ctl+-
-  - {t: Ctl+PAGE UP, h: SCROLL}
+  - {t: Ctl+PAGE UP, h: '5'}
   - Ctl+Z
   - Ctl+X
   - Ctl+C
   - Ctl+V
   - LSHIFT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - PAGE DOWN
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
   - Ctl+PAGE DOWN
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -104,8 +94,6 @@ layers:
   - {type: held}
   - Sft+8
   - Sft+9
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - /
   - Sft+3
   - Sft+4
@@ -116,14 +104,11 @@ layers:
   - {t: ▽, type: trans}
   - Sft+,
   - Sft+.
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '='
   - Sft+5
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -148,8 +133,6 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - /
   - '4'
   - '5'
@@ -160,14 +143,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+CAPS
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '0'
   - '1'
   - '2'
   - '3'
   - '0'
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -177,8 +157,6 @@ layers:
   - ENTER
   - {t: ▽, type: trans}
   MOUSE:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -217,10 +195,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  SCROLL:
+  '5':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP ARROW
@@ -237,13 +212,9 @@ layers:
   - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - LEFT CONTROL
   - {t: ▽, type: trans}
   - LEFT CONTROL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -254,7 +225,6 @@ layers:
   - {t: ▽, type: trans}
   - LEFT CONTROL
   - {type: held}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -280,8 +250,6 @@ layers:
   - {t: ▽, type: trans}
   - Ctl+F
   - Ctl+G
-  - {t: ▽, type: trans}
-  - DELETE
   - Gui+UP ARROW
   - LEFT ARROW
   - DOWN ARROW
@@ -292,8 +260,6 @@ layers:
   - Ctl+C
   - Ctl+V
   - Ctl+B
-  - LEFT WIN
-  - Gui+DOWN ARROW
   - Gui+LEFT ARROW
   - Gui+RIGHT ARROW
   - Meh+PRINTSCREEN
@@ -307,7 +273,6 @@ layers:
   - {t: ▽, type: trans}
   - BACKSPACE
   - ENTER
-  - {t: ▽, type: trans}
   FUNCTION2:
   - F1
   - F2
@@ -324,8 +289,6 @@ layers:
   - F6
   - F11
   - Ctl+INSERT
-  - {t: ▽, type: trans}
-  - HOME
   - PAGE UP
   - Ctl+Sft+;
   - UP ARROW
@@ -336,8 +299,6 @@ layers:
   - F9
   - F10
   - INSERT
-  - {t: ▽, type: trans}
-  - END
   - PAGE DOWN
   - LEFT ARROW
   - DOWN ARROW
@@ -349,47 +310,46 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - SPACE
-  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
 combos:
-- p: [41, 30]
+- p: [41, 36, 26]
   k: TAB
   l: [default]
-- p: [38, 22]
+- p: [38, 20, 33]
   k: F7
   l: [default]
-- p: [38, 23]
+- p: [38, 21, 33]
   k: F8
   l: [default]
-- p: [38, 24]
+- p: [38, 33, 22]
   k: F9
   l: [default]
-- p: [38, 25]
+- p: [38, 33, 23]
   k: F10
   l: [default]
-- p: [38, 12]
+- p: [38, 12, 33]
   k: F6
   l: [default]
-- p: [38, 11]
+- p: [38, 11, 33]
   k: F5
   l: [default]
-- p: [38, 10]
+- p: [38, 10, 33]
   k: F4
   l: [default]
-- p: [38, 2]
+- p: [38, 2, 33]
   k: F3
   l: [default]
-- p: [38, 1]
+- p: [38, 1, 33]
   k: F2
   l: [default]
-- p: [38, 0]
+- p: [38, 0, 33]
   k: F1
   l: [default]
-- p: [38, 13]
+- p: [38, 13, 33]
   k: F11
   l: [default]
-- p: [38, 3]
+- p: [38, 3, 33]
   k: F12
   l: [default]
 - p: [3, 2]
@@ -398,43 +358,43 @@ combos:
 - p: [7, 6]
   k: Sft+/
   l: [default]
-- p: [18, 31]
+- p: [27, 16]
   k: '['
   l: [default]
-- p: [25, 26]
+- p: [23, 24]
   k: ''''
-- p: [30, 29]
+- p: [26, 25]
   k: ;
 - p: [0, 1]
   k: ESCAPE
   l: [default]
-- p: [20, 21]
+- p: [19, 18]
   k: Sft+INT1
 - p: [8, 9]
   k: DELETE
-- p: [32, 30]
+- p: [26, 28]
   k: '&mkp MB3'
   l: [default]
-- p: [25, 12]
+- p: [12, 23]
   k: Sft+6
 - p: [13, 12]
   k: INT5
-- p: [25, 24]
+- p: [22, 23]
   k: ','
-- p: [30, 31]
+- p: [27, 26]
   k: .
   l: [default, NUM2]
-- p: [30, 19]
+- p: [30, 17, 26]
   k: Sft+-
   l: [default, NUM2]
-- p: [31, 32]
+- p: [27, 28]
   k: '&WCLICK_'
   l: [default]
-- p: [31, 41]
+- p: [41, 36, 27]
   k: LEFT GUI
-- p: [32, 33]
+- p: [28, 29]
   k: '&mkp MB2'
 - p: [3, 4]
   k: INSERT
-- p: [24, 13]
+- p: [13, 22]
   k: Sft+CAPS
