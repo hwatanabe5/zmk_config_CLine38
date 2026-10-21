@@ -33,7 +33,7 @@ layers:
   - {t: N, h: LEFT ALT}
   - {t: M, h: LCTRL}
   - '&mkp MB1'
-  - '&mkpmo 5 MB2'
+  - {t: '&mkp MB2', h: SCROLL}
   - DELETE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -242,7 +242,7 @@ layers:
   - LEFT CONTROL
   - {t: ▽, type: trans}
   - LEFT CONTROL
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -253,13 +253,13 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT CONTROL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
