@@ -313,43 +313,43 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
 combos:
-- p: [41, 36, 26]
+- p: [36, 26]
   k: TAB
   l: [default]
-- p: [38, 20, 33]
+- p: [20, 33]
   k: F7
   l: [default]
-- p: [38, 21, 33]
+- p: [21, 33]
   k: F8
   l: [default]
-- p: [38, 33, 22]
+- p: [33, 22]
   k: F9
   l: [default]
-- p: [38, 33, 23]
+- p: [33, 23]
   k: F10
   l: [default]
-- p: [38, 12, 33]
+- p: [12, 33]
   k: F6
   l: [default]
-- p: [38, 11, 33]
+- p: [11, 33]
   k: F5
   l: [default]
-- p: [38, 10, 33]
+- p: [10, 33]
   k: F4
   l: [default]
-- p: [38, 2, 33]
+- p: [2, 33]
   k: F3
   l: [default]
-- p: [38, 1, 33]
+- p: [1, 33]
   k: F2
   l: [default]
-- p: [38, 0, 33]
+- p: [0, 33]
   k: F1
   l: [default]
-- p: [38, 13, 33]
+- p: [13, 33]
   k: F11
   l: [default]
-- p: [38, 3, 33]
+- p: [3, 33]
   k: F12
   l: [default]
 - p: [3, 2]
@@ -384,13 +384,13 @@ combos:
 - p: [27, 26]
   k: .
   l: [default, NUM2]
-- p: [30, 17, 26]
+- p: [17, 26]
   k: Sft+-
   l: [default, NUM2]
 - p: [27, 28]
   k: '&WCLICK_'
   l: [default]
-- p: [41, 36, 27]
+- p: [36, 27]
   k: LEFT GUI
 - p: [28, 29]
   k: '&mkp MB2'
