@@ -64,83 +64,83 @@
 
         tab {
             bindings = <&kp TAB>;
-            key-positions = <41 36 26>;
+            key-positions = <36 26>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F7_ {
             bindings = <&kp F7>;
-            key-positions = <38 20 33>;
+            key-positions = <20 33>;
             timeout-ms = <30>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F8_ {
             bindings = <&kp F8>;
-            key-positions = <38 21 33>;
+            key-positions = <21 33>;
             timeout-ms = <30>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F9_ {
             bindings = <&kp F9>;
-            key-positions = <38 33 22>;
+            key-positions = <33 22>;
             timeout-ms = <30>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F10_ {
             bindings = <&kp F10>;
-            key-positions = <38 33 23>;
+            key-positions = <33 23>;
             timeout-ms = <30>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F6_ {
             bindings = <&kp F6>;
-            key-positions = <38 12 33>;
+            key-positions = <12 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F5_ {
             bindings = <&kp F5>;
-            key-positions = <38 11 33>;
+            key-positions = <11 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F4_ {
             bindings = <&kp F4>;
-            key-positions = <38 10 33>;
+            key-positions = <10 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F3_ {
             bindings = <&kp F3>;
-            key-positions = <38 2 33>;
+            key-positions = <2 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F2_ {
             bindings = <&kp F2>;
-            key-positions = <38 1 33>;
+            key-positions = <1 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F1_ {
             bindings = <&kp F1>;
-            key-positions = <38 0 33>;
+            key-positions = <0 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F11_ {
             bindings = <&kp F11>;
-            key-positions = <38 13 33>;
+            key-positions = <13 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
         F12_ {
             bindings = <&kp F12>;
-            key-positions = <38 3 33>;
+            key-positions = <3 33>;
             layers = <0>; // 指定レイヤーでのみ有効
         };
 
@@ -217,7 +217,7 @@
 
         EQ_ {
             bindings = <&kp JP_EQUAL>;
-            key-positions = <30 17 26>;
+            key-positions = <17 26>;
             layers = <0 3>; // 指定レイヤーでのみ有効
         };
 
@@ -229,7 +229,7 @@
 
         win_2 {
             bindings = <&kp LEFT_GUI>;
-            key-positions = <41 36 27>;
+            key-positions = <36 27>;
         };
 
         MB2_2 {
